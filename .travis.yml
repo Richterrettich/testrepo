@@ -1,0 +1,7 @@
+language:
+  - java
+
+
+script:
+  - ruby -e 'puts "hugo"'
+
